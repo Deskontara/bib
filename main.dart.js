@@ -47471,7 +47471,7 @@ var $async$$1=A.L(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:q=3
 m=A.j9("https://fcm.googleapis.com/fcm/send")
 l=t.N
-k=A.ai(["Content-Type","application/json; charset=UTF-8"],l,l)
+k=A.ai(["Content-Type","application/json; charset=UTF-8","Authorization","key=AIzaSyB9xyIoOgRABCNp9psvCG9PWmFFSowFlWM"],l,l)
 j=o.a.ch
 i=o.d.k(0)
 h=$.aFY+1
