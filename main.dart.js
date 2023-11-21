@@ -47469,7 +47469,7 @@ A.arh.prototype={
 $1(a){var s=0,r=A.P(t.P),q=1,p,o=this,n,m,l,k,j,i,h,g,f
 var $async$$1=A.L(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:q=3
-m=A.j9("https://api.rnfirebase.io/messaging/send")
+m=A.j9("https://fcm.googleapis.com/fcm/send")
 l=t.N
 k=A.ai(["Content-Type","application/json; charset=UTF-8"],l,l)
 j=o.a.ch
